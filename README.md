@@ -71,4 +71,4 @@ jupyter notebook ML_market_AgentAI.ipynb
 
 ### 📬 Contact
 
-For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/your-profile) or open an issue.
+For questions or collaboration, reach out via [LinkedIn](https://www.linkedin.com/in/vincent-napolean-susai) or open an issue.
